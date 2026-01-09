@@ -12,7 +12,7 @@ class SimpleSlider {
             },
             {
                 image: 'services/depilaçãoaxila2.png',
-                title: 'Depilação Axilar'
+                title: 'Depilação Axila'
             },
             {
                 image: 'services/plasticadospes1.png',
